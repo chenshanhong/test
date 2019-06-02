@@ -27,6 +27,9 @@ class Test1 implements Runnable{
 	}public void Test22() {
 		
 		}
+	public void Test21() {
+		
+	}
 	
 	@Override
 	public  void run() {
