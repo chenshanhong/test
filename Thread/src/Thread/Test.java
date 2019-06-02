@@ -24,7 +24,10 @@ class Test1 implements Runnable{
 	}
 	public Test1() {
 	
-	}
+	}public void Test22() {
+		
+		}
+	
 	@Override
 	public  void run() {
 		while(i<=100) {
